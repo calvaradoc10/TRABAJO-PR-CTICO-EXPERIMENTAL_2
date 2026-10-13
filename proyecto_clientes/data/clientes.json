@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ana",
+    "apellido": "Pérez",
+    "email": "ana@x.com",
+    "telefono": "0987654321",
+    "ciudad": "Guayaquil"
+  },
+  {
+    "id": 2,
+    "nombre": "Luis",
+    "apellido": "Mora",
+    "email": "luis.mora@gmail.com",
+    "telefono": "0991122334",
+    "ciudad": "Quito"
+  },
+  {
+    "id": 3,
+    "nombre": "María",
+    "apellido": "López",
+    "email": "maria.lopez@hotmail.com",
+    "telefono": "0974455667",
+    "ciudad": "Cuenca"
+  },
+  {
+    "id": 4,
+    "nombre": "Carlos",
+    "apellido": "Vera",
+    "email": "carlos.vera@outlook.com",
+    "telefono": "0963344556",
+    "ciudad": "Milagro"
+  },
+  {
+    "id": 5,
+    "nombre": "Sofía",
+    "apellido": "Andrade",
+    "email": "sofia.andrade@gmail.com",
+    "telefono": "0958899001",
+    "ciudad": "Guayaquil"
+  }
+]
